@@ -58,7 +58,7 @@ I replied to the ticket by stating that system administrators will be the one's 
 </p>
 <br />
 
-<img width="967" height="512" alt="Lifecycle 5" src="https://github.com/user-attachments/assets/c9744c99-e97f-4e1f-a6d7-e726a3250d59" />
+<img width="1087" height="387" alt="Lifecycle 4" src="https://github.com/user-attachments/assets/d3fbef3d-e5a7-4870-bdd3-db633a29b840" />
 
 <p>
 After having "Chris from System Engineering" resolve the issue, I posted the update to the ticket and at the bottom of the page there is an option to close the ticket. I selected that option and now the open ticket should now be closed.
