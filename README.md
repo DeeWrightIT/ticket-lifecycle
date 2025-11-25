@@ -29,25 +29,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+<img width="881" height="713" alt="Lifecycle 1" src="https://github.com/user-attachments/assets/8d59b492-21e7-456c-b600-184dc06090c3" />
+
 <p>
-<img src="https://i.imgur.com/IhP25ti.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-First, I opened the browser up and went to localhost/osticket. From there, there's an option on the right side of the page to "open a new ticket". Once the user clicks that, they are prompted to enter their information as a registered user. In the previous project https://github.com/joeisak/post-install-config I created two users that can submit tickets, "Ken Ken" and "Karen Karen". After placing the user's information, the user can select a help center topic (three of which were made in the previous project) if applicable, along with a summary of the issue. In this example, a "Business Critical Outage" was selected and a brief description of the issue was given.
+First, I opened the browser up and went to localhost/osticket. From there, there's an option on the right side of the page to "open a new ticket". Once the user clicks that, they are prompted to enter their information as a registered user. In the previous project https://github.com/deewrightit/post-install-config I created two users that can submit tickets, "Ken Ken" and "Karen Karen". After placing the user's information, the user can select a help center topic (three of which were made in the previous project) if applicable, along with a summary of the issue. In this example, a "Business Critical Outage" was selected and a brief description of the issue was given.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/IUK1zo5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="1029" height="408" alt="Lifecycle 2" src="https://github.com/user-attachments/assets/eaed6bb0-920a-4a37-bacf-b0f16845ef12" />
+
 <p>
 Next, I'm going to log into the account of a help desk user "Jane Doe" that I created to take care of the new ticket. When I login, I'm immediately able to see the new open ticket.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/ObzBw7z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="1009" height="619" alt="Lifecycle 3" src="https://github.com/user-attachments/assets/0171048d-968e-4528-adf2-411740cd3969" />
+
 <p>
 Next, I updated the priority to "Emergency" and the SLA Plan to "Sev-A". Then, I assigned the ticket to System Administrators. Help desk users are able to update these by clicking on the blue text next to each of the categories. 
 </p>
